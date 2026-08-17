@@ -5,7 +5,7 @@ Business Administration student specializing in Quantitative Methods & Business 
 
 📊 Interested in data analysis, business intelligence, and software projects
 
-💻 Working with Python, R, and SQL
+💻 Working with Python, R, SQL, API, Java Script, HTLM...
 
 📈 Passionate about combining business strategy with data-driven solutions
 
